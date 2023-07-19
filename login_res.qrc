@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/image"/>
+    <qresource prefix="/">
+        <file>res/组 3.png</file>
+        <file>res/组 4.png</file>
+        <file>res/组 5.png</file>
+        <file>res/组 6.png</file>
+        <file>res/pwd.png</file>
+        <file>res/user.png</file>
+        <file>res/background.png</file>
+        <file>res/logo.png</file>
+        <file>res/logoback.png</file>
+        <file>res/pure.png</file>
+    </qresource>
+</RCC>

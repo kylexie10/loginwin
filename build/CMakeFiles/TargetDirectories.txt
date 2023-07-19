@@ -1,0 +1,4 @@
+/home/kyle/Desktop/neuv_loginwin/build/CMakeFiles/rebuild_cache.dir
+/home/kyle/Desktop/neuv_loginwin/build/CMakeFiles/edit_cache.dir
+/home/kyle/Desktop/neuv_loginwin/build/CMakeFiles/neuv_loginwin.dir
+/home/kyle/Desktop/neuv_loginwin/build/CMakeFiles/neuv_loginwin_autogen.dir
